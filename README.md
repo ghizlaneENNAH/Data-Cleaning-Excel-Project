@@ -37,6 +37,5 @@ This project involves cleaning and formatting data in an Excel file to ensure co
 ## Contributing
 Feel free to suggest improvements or additional cleaning steps by opening an issue or submitting a pull request.
 
-## License
-This project is released under the MIT License.
+
 
